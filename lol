@@ -1,1 +1,1 @@
-lol
+print("hey")
